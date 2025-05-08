@@ -13,7 +13,7 @@ export default function App() {
       </header>
 
       <section className="text-center py-20 bg-gray-50">
-        <img src="/your-photo.jpg" alt="Ahmed Qais" className="w-32 h-32 mx-auto rounded-full shadow-lg mb-6" />
+        <img src="/ahmed-photo.jpeg" alt="Ahmed Qais" className="w-32 h-32 mx-auto rounded-full shadow-lg mb-6" />
         <h2 className="text-4xl font-semibold mb-4">Hi, I'm Ahmed 👋</h2>
         <p className="text-lg text-gray-600 max-w-xl mx-auto">
           Co-Founder & CTO at Orderii LLC and CEO at OTECH LLC — I build scalable tech for e-commerce,
