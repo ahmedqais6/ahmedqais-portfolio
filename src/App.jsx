@@ -56,6 +56,26 @@ export default function App() {
               <h4 className="font-semibold text-lg">Consultant - GIZ Iraq</h4>
               <p className="text-sm text-gray-600">Providing fintech consulting and digital product development for the Strengthening Public Finance and Financial Markets (FFM) program.</p>
             </div>
+            <div className="p-6 border rounded-xl shadow-sm bg-white">
+              <img src="/logos/raiya.jpeg" alt="Al Raiya Group Logo" className="w-10 h-10 mb-3" />
+              <h4 className="font-semibold text-lg">Al Raiya Group</h4>
+              <p className="text-sm text-gray-600">Senior Software Engineer leading development of systems like Iraq Ports, Central Connection, Raiya Garages, and Ticket System.</p>
+            </div>
+            <div className="p-6 border rounded-xl shadow-sm bg-white">
+              <img src="/logos/pegasus_cargo_iraq.jpeg" alt="Pegasus Cargo Iraq Logo" className="w-10 h-10 mb-3" />
+              <h4 className="font-semibold text-lg">Pegasus Cargo Iraq</h4>
+              <p className="text-sm text-gray-600">Led the development of a web-based import/export cargo system as Senior Software Engineer.</p>
+            </div>
+            <div className="p-6 border rounded-xl shadow-sm bg-white">
+              <img src="/logos/eucalyptus_iq.jpeg" alt="Eucalyptus Logo" className="w-10 h-10 mb-3" />
+              <h4 className="font-semibold text-lg">Eucalyptus IQ</h4>
+              <p className="text-sm text-gray-600">Head of Mobile Development for SACHACH, a school app designed for the Iraqi education sector.</p>
+            </div>
+            <div className="p-6 border rounded-xl shadow-sm bg-white">
+              <img src="/logos/urits.jpeg" alt="uRits Logo" className="w-10 h-10 mb-3" />
+              <h4 className="font-semibold text-lg">uRiTS</h4>
+              <p className="text-sm text-gray-600">Trained SCRATCH language for over 700 iraqi student on behalf of SAP and INJAZ ALARAB.</p>
+            </div>
           </div>
         </div>
       </section>
